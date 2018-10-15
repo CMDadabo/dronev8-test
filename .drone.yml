@@ -2,5 +2,5 @@ pipeline:
   build:
     image: golang
     commands:
-      - echo "Hello buddy"
+      - echo "Hello friendo"
 
