@@ -3,5 +3,5 @@ pipeline:
     image: golang
     commands:
       - echo "Hello buddy"
-      - exit 1
+      - exit 0
 
